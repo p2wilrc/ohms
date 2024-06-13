@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/David Huggins-Daines/ohms#readme"
-Issues = "https://github.com/David Huggins-Daines/ohms/issues"
-Source = "https://github.com/David Huggins-Daines/ohms"
+Documentation = "https://github.com/p2wilrc/ohms#readme"
+Issues = "https://github.com/p2wilrc/ohms/issues"
+Source = "https://github.com/p2wilrc/ohms"
 
 [project.scripts]
 "ohms-extract" = "ohms.extract:main"

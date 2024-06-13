@@ -1,9 +1,4 @@
-# ohms
-
-[![PyPI - Version](https://img.shields.io/pypi/v/ohms.svg)](https://pypi.org/project/ohms)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ohms.svg)](https://pypi.org/project/ohms)
-
------
+# OHMS XML Conversion/Extraction
 
 ## Table of Contents
 
@@ -14,6 +9,12 @@
 
 ```console
 pip install ohms
+```
+
+## Usage
+
+```console
+ohms_extract INPUT_DIRECTORY OUTPUT_DIRECTORY
 ```
 
 ## License
